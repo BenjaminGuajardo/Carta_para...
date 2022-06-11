@@ -1,0 +1,117 @@
+body{
+    background: -webkit-linear-gradient(to right, hsla(340, 95%, 50%, 0.459), hsla(317, 45%, 52%, 0.664)), url(img/16861.jpg);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, hsla(340, 95%, 50%, 0.459), hsla(317, 45%, 52%, 0.664)), url(img/16861.jpg);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    font-family: cursive;
+    font-size: large;
+}
+
+div#Carta{
+    text-align: center;
+    margin: 15px;
+}
+
+header{
+    margin: 30px;
+    text-align: center;
+}
+
+
+.linea_divisora{
+    border: 20px;
+    width: 100%;
+    height: 25px;
+    background-color: rgb(86, 118, 149);
+}
+
+div#los_quince{
+    text-align: center;
+}
+
+div#los_quince_texto{
+    margin: 30px;
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+    width: 80%;
+    height: 50px;
+    background-color: rgb(86, 118, 149);
+}
+
+span#uno{
+    background: #58535c;
+    color: rgb(255, 255, 255);
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    padding: 2px;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, .5);
+    margin-right: 5px;
+}
+
+span#dos{
+    background: #58535c;
+    color: rgb(255, 255, 255);
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    padding: 2px;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, .5);
+    margin-right: 5px;
+}
+
+span#tres{
+    background: #58535c;
+    color: rgb(255, 255, 255);
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    padding: 2px;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, .5);
+    margin-right: 5px;
+}
+
+div#Cambios{
+    text-align: center;
+}
+
+div#fecha{
+    text-align: center;
+    margin: 20px;
+}
+
+div#fecha_texto{
+    text-align: center;
+    margin: 30px;
+}
+
+div#Te_hice_esto{
+    text-align: center;
+    margin: 30px;
+}
+
+div#despedida{
+    text-align: center;
+    margin: 30px;
+}
+div#Nos_vemos{
+    text-align: center;
+    margin: 50px;
+}
+
+.img_uno{
+    margin: 20px;
+    align-content: center;
+}
